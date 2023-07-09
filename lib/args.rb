@@ -1,2 +1,0 @@
-# args
-#!/usr/bin/ruby
